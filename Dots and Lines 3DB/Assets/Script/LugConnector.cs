@@ -8,8 +8,8 @@ public class LugConnector : MonoBehaviour
     public Transform BoxHold;
     public LineRenderer LineToSpawn;
 
-    int i = 0;
-    int j = 0;
+    //int i = 0;
+    //int j = 0;
     Vector3[] arrayList = new Vector3[2];
     string[] checkLug = new string[2];
     LineRenderer[] lineArray = new LineRenderer[144];
