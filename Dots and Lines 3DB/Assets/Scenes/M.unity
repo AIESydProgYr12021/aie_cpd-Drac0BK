@@ -3919,7 +3919,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 159.95706, y: 428}
+  m_AnchoredPosition: {x: 179.7, y: 370.1}
   m_SizeDelta: {x: 199.9777, y: 66.537}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &477704971
@@ -4885,7 +4885,8 @@ PrefabInstance:
       propertyPath: m_Name
       value: LugGO
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6681789809481678530, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
 --- !u!4 &592048483 stripped
 Transform:
@@ -7969,7 +7970,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 904394245}
-  - component: {fileID: 904394246}
   m_Layer: 0
   m_Name: Faces
   m_TagString: Untagged
@@ -8045,26 +8045,6 @@ Transform:
   m_Father: {fileID: 426730156}
   m_RootOrder: 30
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &904394246
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 904394244}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 200a10f600a110d42bccd4f7da314bea, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LineHolder: {fileID: 1172015765}
-  player1: 0
-  player2: 0
-  p1GameWin: {fileID: 0}
-  p2GameWin: {fileID: 0}
-  p1: {fileID: 0}
-  p2: {fileID: 0}
-  turn: {fileID: 0}
 --- !u!1 &918882162
 GameObject:
   m_ObjectHideFlags: 0
@@ -9973,7 +9953,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 159.95706, y: 593.38605}
+  m_AnchoredPosition: {x: 179.70004, y: 535.4861}
   m_SizeDelta: {x: 199.9777, y: 66.537}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1033712580
@@ -11584,7 +11564,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1172015767}
-  - component: {fileID: 1172015766}
   m_Layer: 0
   m_Name: LineHolderGO
   m_TagString: Untagged
@@ -11592,26 +11571,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &1172015766
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1172015765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 05c260da39785024081fd15fdc68c284, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  lineHolder: {fileID: 1172015765}
-  playerturn: 0
-  escape: {fileID: 971278673}
-  win1: {fileID: 0}
-  win2: {fileID: 0}
-  isPlayer1Turn: 1
-  red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
-  blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
 --- !u!4 &1172015767
 Transform:
   m_ObjectHideFlags: 0
@@ -14776,7 +14735,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 20.700012, y: 225}
+  m_AnchoredPosition: {x: 20.700012, y: 181.5}
   m_SizeDelta: {x: -849, y: -848}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1537821266
@@ -15739,7 +15698,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 159.95706, y: 511.08606}
+  m_AnchoredPosition: {x: 179.70004, y: 453.18607}
   m_SizeDelta: {x: 199.9777, y: 66.537}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1586819694
@@ -18482,7 +18441,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 20.700012, y: 312}
+  m_AnchoredPosition: {x: 20.700012, y: 268.5}
   m_SizeDelta: {x: -849, y: -848}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1827439336

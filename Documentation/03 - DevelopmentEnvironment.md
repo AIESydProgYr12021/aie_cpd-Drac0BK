@@ -2,32 +2,8 @@
 
 ## Game Engine
 describe the game engine your using, version, required features to be installed.
+Unity, 2020.19
 
 ## Software and tools
-
-- list the software your using and its licence
-- aaa
-- bbb
-- ccc
-
-
-## 3rd party libraries / assets
-
----
-Asset Name: `insert name here`
-
-URL: `unsert link to asset`
-
-Reason for use: describe what this asset is used for
-
----
-
-Asset Name: `insert name here`
-
-URL: `unsert link to asset`
-
-Reason for use: describe what this asset is used for
-
----
-
-...
+Visual Software
+Unity

@@ -1,5 +1,1 @@
 {"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
-{"msg":"newNode","annotation":"WriteResponseFile artifacts/rsp/5752584727854810780.rsp","index":1}
-{"msg":"noderesult","annotation":"WriteResponseFile artifacts/rsp/5752584727854810780.rsp","index":1,"exitcode":0}
-{"msg":"newNode","annotation":"Il2Cpp C:/Users/baik2/Desktop/aie_cpd-Drac0BK/Dots and Lines 3DB/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2}
-{"msg":"noderesult","annotation":"Il2Cpp C:/Users/baik2/Desktop/aie_cpd-Drac0BK/Dots and Lines 3DB/Library/Il2cppBuildCache/WebGL/Native/build.bc","index":2,"exitcode":0}

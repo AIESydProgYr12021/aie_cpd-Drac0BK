@@ -1,14 +1,12 @@
 # PROJECT NAME: Dots and Boxes 3D
+# Programmer Bailey Kan
+# Designers Patrick Asterman and Robert Mason
 
 ## About the Game
-
-### Contributors:
-Contributors to the project are strictly limated to AIE Students as part of their group work project.
-
-Members (example):
- - John Doe: designer
- - John Smith: programmer
- - Sandra Dee: artist
+This Game Takes the pen and paper game of Dots and Boxes and places it
+on a 3D 3*3 Cube. The goal of the game is to create squares on the cube using
+the lines to gain that face of the cube for a point, the first player to gain
+more than half of the cube wins the game.
 
 
 ## Build Steps:
@@ -29,10 +27,8 @@ The project can currently be built for both windows and webgl in the following w
     * PC Build: `builds/pc/YourGame.exe` 
     * WebGL Build: `builds/web/index.html`
 
-## Daily Builds:
-Daily builds of the project should be placed on the local campus network drive
-
-
-
 # Credits:
  Are there assets, sounds or media included within the project that require attributation? list them here:
+ https://www.youtube.com/watch?v=JN9vx0veZ-c and part of the videos by Megalomobile allowed me
+ to create the basis of the cube and the rotations
+ 
