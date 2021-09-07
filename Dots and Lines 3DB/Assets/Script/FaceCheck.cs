@@ -38,7 +38,8 @@ public class FaceCheck : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        for(int i = 0; i < lines.Length; i++)
+
+        for (int i = 0; i < lines.Length; i++)
         {
             bool hasnot = false;
             for(int j = 0; j  < AlreadyHave.Length; j++)
@@ -71,6 +72,7 @@ public class FaceCheck : MonoBehaviour
             //    LineHolder.GetComponent<LineMaterialChange>().isPlayer1Turn = false;
             //}
             linesCount = 0;
+
         }
 
     }

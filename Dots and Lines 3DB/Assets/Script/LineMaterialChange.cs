@@ -5,9 +5,9 @@ using UnityEngine;
 
 public class LineMaterialChange : MonoBehaviour
 {
-    LineController materialLine;
     public GameObject lineHolder;
-    public int playerturn = 0;
+    public int playerturn = 100;
+    int pt = 100;
     public bool isPlayer1Turn = true;
     int lineArrayLoc = 0;
     GameObject[] LineArray = new GameObject[144];
@@ -21,13 +21,20 @@ public class LineMaterialChange : MonoBehaviour
         {
             LineArray[i] = lineHolder;
         }
+        pt = playerturn;
     }
 
     // Update is called once per frame
     void Update()
     {
+        if (pt - playerturn == 2)
+        {
+            playerturn--;
+        }
+
         if (Input.GetMouseButtonDown(0))
         {
+            pt = playerturn;
             RaycastHit hit;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
@@ -36,14 +43,14 @@ public class LineMaterialChange : MonoBehaviour
                 string name = hit.transform.parent.name;
                 string objectname = hit.transform.name;
                 GameObject objectTransFrom = hit.transform.gameObject;
-                if(playerturn % 2 == 0)
-                {
-                    Debug.Log("Player 1");
-                }
-                else
-                {
-                    Debug.Log("Player 2");
-                }
+               // if(playerturn % 2 == 0)
+               // {
+               //     Debug.Log("Player 1");
+               // }
+               // else
+               // {
+               //     Debug.Log("Player 2");
+               // }
                 
                 if (name == lineHolder.name)
                 {
@@ -81,14 +88,14 @@ public class LineMaterialChange : MonoBehaviour
                         {
                             hit.transform.GetComponent<MeshRenderer>().material = blue;
                         }  
+                        Debug.Log(playerturn);
                         playerturn++;
-
+                        pt = playerturn;
 
                     }
-                    
-
                 }
             }
+
         }
     }
 }

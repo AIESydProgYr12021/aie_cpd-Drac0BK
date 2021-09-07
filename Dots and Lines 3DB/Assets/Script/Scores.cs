@@ -5,10 +5,13 @@ using UnityEngine.UI;
 
 public class Scores : MonoBehaviour
 {
+    public GameObject LineHolder;
+
     public int player1;
     public int player2;
     public Text p1;
     public Text p2;
+    public Text turn;
     GameObject[] Faces = new GameObject[54];
 
     // Start is called before the first frame update
@@ -30,22 +33,32 @@ public class Scores : MonoBehaviour
         int red = 0;
         int blue = 0;
 
-       for (int i = 0; i < Faces.Length; i++)
-       {
-       
-           if (Faces[i].GetComponent<MeshRenderer>().material.name.Contains("Red"))
-           {
+        for (int i = 0; i < Faces.Length; i++)
+        {
+
+            if (Faces[i].GetComponent<MeshRenderer>().material.name.Contains("Red"))
+            {
                 red++;
-           }
-           else if (Faces[i].GetComponent<MeshRenderer>().material.name.Contains("Blue"))
-           {
-               blue++;
-           }
-       }
+            }
+            else if (Faces[i].GetComponent<MeshRenderer>().material.name.Contains("Blue"))
+            {
+                blue++;
+            }
+        }
+
         player1 = red;
         player2 = blue;
         p1.text = player1.ToString();
         p2.text = player2.ToString();
+        int check = LineHolder.GetComponent<LineMaterialChange>().playerturn;
+        if (check % 2 == 0)
+        {
+            turn.text = "Player 1's turn";
+        }
+        if (check % 2 != 0)
+        {
+            turn.text = "Player 2's turn";
+        }
 
         //foreach (Transform child in transform)
         //{
