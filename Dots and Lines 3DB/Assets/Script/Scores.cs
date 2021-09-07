@@ -9,6 +9,8 @@ public class Scores : MonoBehaviour
 
     public int player1;
     public int player2;
+    public GameObject p1GameWin;
+    public GameObject p2GameWin;
     public Text p1;
     public Text p2;
     public Text turn;
@@ -45,7 +47,7 @@ public class Scores : MonoBehaviour
                 blue++;
             }
         }
-
+        
         player1 = red;
         player2 = blue;
         p1.text = player1.ToString();
@@ -59,18 +61,13 @@ public class Scores : MonoBehaviour
         {
             turn.text = "Player 2's turn";
         }
-
-        //foreach (Transform child in transform)
-        //{
-        //    if (child.GetComponent<MeshRenderer>().material.name.Contains("Red"))
-        //    {
-        //        player1++;
-        //    }
-        //
-        //    else if (child.GetComponent<MeshRenderer>().material.name.Contains("Blue"))
-        //    {
-        //        player2++;
-        //    }
-        //}
+        if(player1 == 28)
+        {
+            p1GameWin.SetActive(true);
+        }
+        if (player2 == 28)
+        {
+            p2GameWin.SetActive(true);
+        }
     }
 }
