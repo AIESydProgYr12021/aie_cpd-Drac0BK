@@ -27,6 +27,13 @@ The project can currently be built for both windows and webgl in the following w
     * PC Build: `builds/pc/YourGame.exe` 
     * WebGL Build: `builds/web/index.html`
 
+## Builds Access
+Currently Window, WebGL and Android Builds are in the github
+Window build can be accessed from the file itself
+Android build needs to be installed on the phone
+WebGL build can be accessed on github pages with this link
+https://aiesydprogyr12021.github.io/aie_cpd-Drac0BK/
+
 # Credits:
  Are there assets, sounds or media included within the project that require attributation? list them here:
  https://www.youtube.com/watch?v=JN9vx0veZ-c and part of the videos by Megalomobile allowed me
