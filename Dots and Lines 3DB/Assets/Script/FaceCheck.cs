@@ -9,6 +9,8 @@ public class FaceCheck : MonoBehaviour
 
     public Material Blue;
     public Material Red;
+    public Material BlueFace;
+    public Material RedFace;
     private Material SeeThrough;
     public GameObject TopLine;
     public GameObject BotLine;
@@ -60,17 +62,15 @@ public class FaceCheck : MonoBehaviour
         }
         if(linesCount == 4)
         {
-            GetComponent<MeshRenderer>().material = linesCom[3].GetComponent<MeshRenderer>().material;
+            if (linesCom[3].GetComponent<MeshRenderer>().material.name.Contains(Red.name))
+            {
+                GetComponent<MeshRenderer>().material = RedFace;
+            }
+            else if (linesCom[3].GetComponent<MeshRenderer>().material.name.Contains(Blue.name))
+            {
+                GetComponent<MeshRenderer>().material = BlueFace;
+            }
             LineHolder.GetComponent<LineMaterialChange>().playerturn--;
-            //bool play = LineHolder.GetComponent<LineMaterialChange>().isPlayer1Turn;
-            //if(play == true)
-            //{
-            //    LineHolder.GetComponent<LineMaterialChange>().isPlayer1Turn = true;
-            //}
-            //else if (play == false)
-            //{
-            //    LineHolder.GetComponent<LineMaterialChange>().isPlayer1Turn = false;
-            //}
             linesCount = 0;
 
         }

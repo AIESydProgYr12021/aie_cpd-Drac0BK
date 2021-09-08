@@ -612,8 +612,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 220463641}
   BotLine: {fileID: 1873361022}
   LeftLine: {fileID: 1355700265}
@@ -901,8 +903,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 135557299}
   BotLine: {fileID: 1214357338}
   LeftLine: {fileID: 1198409118}
@@ -1206,8 +1210,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 448172559}
   BotLine: {fileID: 135557299}
   LeftLine: {fileID: 1359008709}
@@ -1416,8 +1422,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2028329226}
   BotLine: {fileID: 1047552977}
   LeftLine: {fileID: 1676364024}
@@ -2006,8 +2014,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1873361022}
   BotLine: {fileID: 1926345358}
   LeftLine: {fileID: 1828529571}
@@ -2691,8 +2701,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2038973177}
   BotLine: {fileID: 1447873223}
   LeftLine: {fileID: 1705458868}
@@ -3186,8 +3198,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2137091742}
   BotLine: {fileID: 372298234}
   LeftLine: {fileID: 918680619}
@@ -3853,8 +3867,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 938646216}
   BotLine: {fileID: 2013423511}
   LeftLine: {fileID: 521597731}
@@ -3968,8 +3984,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 758073263}
   BotLine: {fileID: 1300600430}
   LeftLine: {fileID: 459222054}
@@ -4543,8 +4561,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 113716900}
   BotLine: {fileID: 2051613948}
   LeftLine: {fileID: 1682458237}
@@ -5183,8 +5203,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 515564642}
   BotLine: {fileID: 1088136045}
   LeftLine: {fileID: 1588711905}
@@ -5583,8 +5605,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1080948249}
   BotLine: {fileID: 238862351}
   LeftLine: {fileID: 51126089}
@@ -5793,8 +5817,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1300600430}
   BotLine: {fileID: 1018531963}
   LeftLine: {fileID: 1399536598}
@@ -5908,8 +5934,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 861114917}
   BotLine: {fileID: 855406538}
   LeftLine: {fileID: 1893012492}
@@ -6152,8 +6180,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2957543}
   BotLine: {fileID: 111880859}
   LeftLine: {fileID: 357014191}
@@ -6362,8 +6392,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1214357338}
   BotLine: {fileID: 816731806}
   LeftLine: {fileID: 75742481}
@@ -6733,8 +6765,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2054511675}
   BotLine: {fileID: 818176759}
   LeftLine: {fileID: 1052467811}
@@ -6848,8 +6882,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1978657749}
   BotLine: {fileID: 799469989}
   LeftLine: {fileID: 569466478}
@@ -7058,8 +7094,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 674521326}
   BotLine: {fileID: 250075507}
   LeftLine: {fileID: 1898546796}
@@ -7411,8 +7449,8 @@ MonoBehaviour:
   win1: {fileID: 1254491769}
   win2: {fileID: 1090464223}
   isPlayer1Turn: 1
-  red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
-  blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
 --- !u!1 &674521326
 GameObject:
   m_ObjectHideFlags: 0
@@ -7617,8 +7655,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1672331084}
   BotLine: {fileID: 484587615}
   LeftLine: {fileID: 992459037}
@@ -7732,8 +7772,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1722800676}
   BotLine: {fileID: 861114917}
   LeftLine: {fileID: 1520159453}
@@ -8610,8 +8652,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 238862351}
   BotLine: {fileID: 515564642}
   LeftLine: {fileID: 338731792}
@@ -8915,8 +8959,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 128588706}
   BotLine: {fileID: 655868264}
   LeftLine: {fileID: 1259772198}
@@ -9030,8 +9076,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 967007965}
   BotLine: {fileID: 2038973177}
   LeftLine: {fileID: 993604239}
@@ -10100,8 +10148,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1066617444}
   BotLine: {fileID: 1207357022}
   LeftLine: {fileID: 283009790}
@@ -10666,8 +10716,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 111880859}
   BotLine: {fileID: 1080948249}
   LeftLine: {fileID: 166264340}
@@ -10781,8 +10833,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 535466084}
   BotLine: {fileID: 1672331084}
   LeftLine: {fileID: 1066617444}
@@ -12232,8 +12286,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 224695626}
   BotLine: {fileID: 269246434}
   LeftLine: {fileID: 640436765}
@@ -12347,8 +12403,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1213166658}
   BotLine: {fileID: 1722800676}
   LeftLine: {fileID: 1470766311}
@@ -12494,8 +12552,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1664532699}
   BotLine: {fileID: 273845868}
   LeftLine: {fileID: 1926345358}
@@ -12972,8 +13032,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 931759862}
   BotLine: {fileID: 674521326}
   LeftLine: {fileID: 487864031}
@@ -13562,8 +13624,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 273845868}
   BotLine: {fileID: 1021348830}
   LeftLine: {fileID: 269246434}
@@ -13994,8 +14058,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 484587615}
   BotLine: {fileID: 2054511675}
   LeftLine: {fileID: 1960946789}
@@ -14109,8 +14175,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1807930876}
   BotLine: {fileID: 1978657749}
   LeftLine: {fileID: 1405821587}
@@ -15059,6 +15127,133 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1369776584}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1386961970
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1386961972}
+  - component: {fileID: 1386961971}
+  m_Layer: 0
+  m_Name: Thinking Music
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!82 &1386961971
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386961970}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 5cc6352d0da3a244597a6e59b160e442, type: 3}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 1
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!4 &1386961972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1386961970}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 30.24583, y: -63.735794, z: 103.060326}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1399536598
 GameObject:
   m_ObjectHideFlags: 0
@@ -15358,8 +15553,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2065133048}
   BotLine: {fileID: 931759862}
   LeftLine: {fileID: 236481366}
@@ -15893,8 +16090,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2065133048}
   BotLine: {fileID: 535466084}
   LeftLine: {fileID: 1525737071}
@@ -16008,8 +16207,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 239146604}
   BotLine: {fileID: 758073263}
   LeftLine: {fileID: 704355529}
@@ -16313,8 +16514,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 655868264}
   BotLine: {fileID: 890368805}
   LeftLine: {fileID: 751939346}
@@ -16523,8 +16726,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 890368805}
   BotLine: {fileID: 448172559}
   LeftLine: {fileID: 783556517}
@@ -16638,8 +16843,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2013423511}
   BotLine: {fileID: 2137091742}
   LeftLine: {fileID: 634869450}
@@ -17184,8 +17391,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1207357022}
   BotLine: {fileID: 224695626}
   LeftLine: {fileID: 80510469}
@@ -17299,8 +17508,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1447873223}
   BotLine: {fileID: 585455115}
   LeftLine: {fileID: 796588431}
@@ -17645,8 +17856,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 2051613948}
   BotLine: {fileID: 799469989}
   LeftLine: {fileID: 1334249326}
@@ -18330,8 +18543,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1047552977}
   BotLine: {fileID: 2957543}
   LeftLine: {fileID: 1116567593}
@@ -18730,8 +18945,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1525737071}
   BotLine: {fileID: 1856388184}
   LeftLine: {fileID: 882130359}
@@ -18845,8 +19062,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 128588706}
   BotLine: {fileID: 113716900}
   LeftLine: {fileID: 468742569}
@@ -20278,8 +20497,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 992459037}
   BotLine: {fileID: 220463641}
   LeftLine: {fileID: 1632326001}
@@ -20523,8 +20744,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1844282322}
   BotLine: {fileID: 1369776584}
   LeftLine: {fileID: 1546867127}
@@ -20828,8 +21051,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 938646216}
   BotLine: {fileID: 2028329226}
   LeftLine: {fileID: 15306246}
@@ -21505,8 +21730,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 818176759}
   BotLine: {fileID: 1664532699}
   LeftLine: {fileID: 1324116621}
@@ -22038,8 +22265,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 816731806}
   BotLine: {fileID: 1807930876}
   LeftLine: {fileID: 180527536}
@@ -22248,8 +22477,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1856388184}
   BotLine: {fileID: 1844282322}
   LeftLine: {fileID: 883222825}
@@ -22648,8 +22879,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1088136045}
   BotLine: {fileID: 372298234}
   LeftLine: {fileID: 1043115325}
@@ -22763,8 +22996,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   LineHolder: {fileID: 673278514}
-  Blue: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
-  Red: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
+  Blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
+  Red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
+  BlueFace: {fileID: 2100000, guid: c3cbf264519fc2f4383d191a2c8c2cc1, type: 2}
+  RedFace: {fileID: 2100000, guid: 7151bd64caa63a44bbfde6f89ec0dc18, type: 2}
   TopLine: {fileID: 1021348830}
   BotLine: {fileID: 250075507}
   LeftLine: {fileID: 1369776584}
