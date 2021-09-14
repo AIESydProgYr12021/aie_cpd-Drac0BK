@@ -6323,7 +6323,6 @@ GameObject:
   m_Component:
   - component: {fileID: 577913735}
   - component: {fileID: 577913737}
-  - component: {fileID: 577913738}
   - component: {fileID: 577913736}
   m_Layer: 5
   m_Name: Virtual Joystick
@@ -6390,19 +6389,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 577913734}
   m_CullTransparentMesh: 1
---- !u!114 &577913738
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 577913734}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 476f17e85ff962643b3a2eb62f31fe12, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  joystickVisualDistance: 10
 --- !u!1 &585455115
 GameObject:
   m_ObjectHideFlags: 0
@@ -7843,7 +7829,6 @@ MonoBehaviour:
   escape: {fileID: 559797326}
   win1: {fileID: 1254491769}
   win2: {fileID: 1090464223}
-  isPlayer1Turn: 1
   red: {fileID: 2100000, guid: d27fc2409beea214b94ed77e2672b938, type: 2}
   blue: {fileID: 2100000, guid: 78cd2dd2adb793f4faceeaf4def477c2, type: 2}
 --- !u!1 &674521326
@@ -8363,11 +8348,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
---- !u!1 &724265000 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789810611772611, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 6681789811033748715}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &751939346
 GameObject:
   m_ObjectHideFlags: 0
@@ -9951,11 +9931,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 867666591}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &881750950 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789810169071437, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 6681789811033748715}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &882130359
 GameObject:
   m_ObjectHideFlags: 0
@@ -11649,7 +11624,6 @@ GameObject:
   - component: {fileID: 1002137750}
   - component: {fileID: 1002137753}
   - component: {fileID: 1002137752}
-  - component: {fileID: 1002137754}
   m_Layer: 0
   m_Name: Cube (2)
   m_TagString: Untagged
@@ -11720,22 +11694,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1002137749}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!114 &1002137754
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1002137749}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d94808da240c69845970b5d0784abbaa, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  BtRLug: {fileID: 724265000}
-  BtLLug: {fileID: 2132142253}
-  TpLLug: {fileID: 1458362824}
-  TpRLug: {fileID: 881750950}
 --- !u!1 &1018531963
 GameObject:
   m_ObjectHideFlags: 0
@@ -16349,11 +16307,6 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1447873223}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
---- !u!1 &1458362824 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789809592200483, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 6681789811033748715}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1459713441
 GameObject:
   m_ObjectHideFlags: 0
@@ -24286,11 +24239,6 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2128987276}
   m_CullTransparentMesh: 1
---- !u!1 &2132142253 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789809203633222, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 6681789811033748715}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &2137091742
 GameObject:
   m_ObjectHideFlags: 0
@@ -24587,5 +24535,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: LugGO
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 6681789809481678530, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789810436966067, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789809557796608, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789810265614345, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789810084584267, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789810846345273, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789810280025913, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789810119067869, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
+    - {fileID: 6681789810960678680, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
   m_SourcePrefab: {fileID: 100100000, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}

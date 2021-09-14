@@ -5,6 +5,7 @@ using UnityEngine.SceneManagement;
 
 public class Changescreen : MonoBehaviour
 {
+    //change screen
     public void PlayGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);

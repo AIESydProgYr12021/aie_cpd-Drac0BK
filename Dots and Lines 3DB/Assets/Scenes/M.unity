@@ -5038,26 +5038,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 6681789809481678531, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
   m_PrefabInstance: {fileID: 592048482}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &592048484 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789810169071437, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 592048482}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &592048485 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789809592200483, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 592048482}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &592048486 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789810611772611, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 592048482}
-  m_PrefabAsset: {fileID: 0}
---- !u!1 &592048487 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 6681789809203633222, guid: dce895d4e5feeae43b30b9ce1d1e7890, type: 3}
-  m_PrefabInstance: {fileID: 592048482}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1 &624762417
 GameObject:
   m_ObjectHideFlags: 0
@@ -9104,9 +9084,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90acb791c630f6148a76cc1e7ba4881d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  line: {fileID: 994779442}
-  ps1: {x: 0, y: 0, z: 0}
-  ps2: {x: 0, y: 0, z: 0}
 --- !u!120 &994779442
 LineRenderer:
   m_ObjectHideFlags: 0
@@ -13335,10 +13312,11 @@ MonoBehaviour:
     Right Click Drag to look around
     the cube
 
-    Phone: Tap on the line to select it
 
-    Drag to look around the
-    cube
+    Phone: Tap and hold on the line to take it
+
+    Drag to look around
+    the cube
 
 
     To Win One player has to have the majority (28)
@@ -13351,10 +13329,8 @@ MonoBehaviour:
     and
     get another turn.
 
-    Try it on this Cube.
 
-    Have fun with this game along
-    with friends!'
+    Have fun with this game along with friends!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -22002,10 +21978,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d94808da240c69845970b5d0784abbaa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BtRLug: {fileID: 592048486}
-  BtLLug: {fileID: 592048487}
-  TpLLug: {fileID: 592048485}
-  TpRLug: {fileID: 592048484}
 --- !u!65 &2128685314
 BoxCollider:
   m_ObjectHideFlags: 0
