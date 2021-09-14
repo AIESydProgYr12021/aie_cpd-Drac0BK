@@ -65,16 +65,16 @@ public class RotateBigCube : MonoBehaviour
     void Drag()
     {
         // Rotating the cube
-        foreach (Touch touch in Input.touches)
-        {
-            //if (Input.GetMouseButton(1))       
-            if (touch.phase == TouchPhase.Moved)
+        //foreach (Touch touch in Input.touches)
+        //{
+            if (Input.GetMouseButton(1))       
+            //if (touch.phase == TouchPhase.Moved)
             {
                 mouseDelta = Input.mousePosition - previousMousePosition;
                 mouseDelta *= 0.13f;
                 transform.rotation = Quaternion.Euler(mouseDelta.y, -mouseDelta.x, 0) * transform.rotation;
             }
-        }
+        //}
         
         previousMousePosition = Input.mousePosition;
     }

@@ -53,11 +53,11 @@ public class LineMaterialChange : MonoBehaviour
 
             ///This is for android controls
             ///the touch is checked on stationary and after 3 deltaTime it continues with the code
-            foreach (Touch touch in Input.touches)
-            {
-                if (touch.phase == TouchPhase.Stationary)
-                    deltaTime += Time.deltaTime;
-                if (deltaTime > 3.0f)
+            //foreach (Touch touch in Input.touches)
+            //{
+            //    if (touch.phase == TouchPhase.Stationary)
+            //        deltaTime += Time.deltaTime;
+            //    if (deltaTime > 3.0f)
                     if (Input.GetMouseButtonDown(0))
                     {
                         //sets pt to playerturn to not cause previous code to repeadetly occur
@@ -113,7 +113,6 @@ public class LineMaterialChange : MonoBehaviour
                             //deltaTime = 0.0f;
                         }
                     }
-            }
             //}
         }
     }
